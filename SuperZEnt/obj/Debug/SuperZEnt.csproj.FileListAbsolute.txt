@@ -1,0 +1,4 @@
+D:\Projects\SuperZ\SuperZ\SuperZEnt\bin\Debug\SuperZEnt.dll
+D:\Projects\SuperZ\SuperZ\SuperZEnt\bin\Debug\SuperZEnt.pdb
+D:\Projects\SuperZ\SuperZ\SuperZEnt\obj\Debug\SuperZEnt.dll
+D:\Projects\SuperZ\SuperZ\SuperZEnt\obj\Debug\SuperZEnt.pdb
